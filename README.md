@@ -7,4 +7,4 @@
 
 ## Funcionalidades
 
-  - Clone do site da Apple: apple.com/br/shop/accessories/all
+  - Clone do site da Apple: https://www.apple.com/br/shop/accessories/all
