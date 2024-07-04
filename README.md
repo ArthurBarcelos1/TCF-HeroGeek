@@ -1,3 +1,5 @@
+# Veja o andamento do site aqui: 
+
 # TCF-HeroGeek
 
 ## Cópia site Apple
