@@ -206,12 +206,7 @@ h1 {
 
 @media (max-width: 430px){
 header {
-    background-color: gray;
-    position: relative;
-    left: -8px;
-    top: -8px;
-    width: 104%; 
-    padding-bottom: 50px;   
+    display: none;
 }
 
 .NavUI {
@@ -219,6 +214,10 @@ header {
 }
 
 .fa-apple {
+    display: none;
+}
+
+.fab {
     display: none;
 }
 
@@ -270,7 +269,7 @@ header {
 
 .C1TXT1 {
     position: relative;
-    top: -280px;
+    top: -270px;
     left: 5%;
 }
 
