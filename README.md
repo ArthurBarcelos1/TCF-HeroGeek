@@ -1,4 +1,4 @@
-# Veja o andamento do site aqui: https://arthurbarcelos1.github.io/TCF-HeroGeek/
+# Veja o site aqui: https://arthurbarcelos1.github.io/TCF-HeroGeek/
 
 # TCF-HeroGeek
 
