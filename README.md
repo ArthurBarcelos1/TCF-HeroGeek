@@ -17,3 +17,9 @@
       - TV e Casa
       - Entretenimento
       - Acessórios
+      
+  - Responsivo
+
+## Objetivos
+
+  - Fazer um site com a maior autenticidade de detalhes como o original
