@@ -1,0 +1,115 @@
+body {
+    background-color: rgb(247, 247, 247);
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.NavUI {
+    color: rgb(78, 78, 78);
+    text-decoration: none;
+    font-family: sans-serif;
+    margin-left: 60px;
+    font-size: 14px;
+}
+
+.TitleStrong {
+    color: rgb(49, 49, 49);
+}
+
+.TitleStrong1 {
+    color: rgb(129, 129, 129);
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.MainPageTitle {
+    width: 700px;
+    font-size: 50px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.ProductDemo {
+    width: 130px;
+    margin-left: 19px;
+    margin-top: 50px;
+}
+
+.ProductDemoVFX {
+    margin-left: 10%;
+}
+
+.ProductDemo1 {
+    margin-right: 5%;
+    font-family: sans-serif;
+    color: black;
+}
+
+.ProductDemoVFX1 {
+    margin-left: 13%;
+}
+
+.MainPageTitle2 {
+    width: 900px;
+    font-size: 40px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.TitleStrong2 {
+    color: rgb(49, 49, 49);
+}
+
+.TitleStrong3 {
+    color: rgb(129, 129, 129);
+}
+
+.ContainerImg {
+    width: 25%;
+    border-radius: 30px;
+}
+
+.C1TXT {
+    color: white;
+    font-family: sans-serif;
+}
+
+.C1TXT1 {
+    position: relative;
+    top: 190px;
+    left: 10%;
+}
+
+.C1TXT2 {
+    position: relative;
+    top: 150px;
+    left: 10%;
+    font-size: 50px;
+}
+
+.C1TXT3 {
+    position: relative;
+    bottom: 450px;
+    left: 10%;
+}
+
+.Container1 {
+    position: relative;
+    top: -160px;
+}
+
+.Container2 {
+    position: relative;
+    top: -900px;
+    left: 25%;
+}
+
+.Containers{
+    display: inline;
+}
