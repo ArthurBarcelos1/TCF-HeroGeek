@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(247, 247, 247);
+    background-color: #f5f5f7;
 }
 
 header {
@@ -31,7 +31,7 @@ h1 {
 .MainPageTitle {
     width: 700px;
     font-size: 50px;
-    margin-left: 10%;
+    margin-left: 8%;
     margin-top: 5%;
 }
 
@@ -45,10 +45,37 @@ h1 {
     margin-left: 10%;
 }
 
-.ProductDemo1 {
-    margin-right: 5%;
+.ProductDemo1, .ProductDemo2, .ProductDemo3, .ProductDemo4, .ProductDemo5, .ProductDemo6, .ProductDemo7, .ProductDemo8 {
     font-family: sans-serif;
     color: black;
+}
+
+.ProductDemo2 {
+    margin-left: 105px;
+}
+
+.ProductDemo3 {
+    margin-left: 105px;
+}
+
+.ProductDemo4 {
+    margin-left: 90px;
+}
+
+.ProductDemo5 {
+    margin-left: 80px;
+}
+
+.ProductDemo6 {
+    margin-left: 95px;
+}
+
+.ProductDemo7 {
+    margin-left: 80px;
+}
+
+.ProductDemo8 {
+    margin-left: 70px;
 }
 
 .ProductDemoVFX1 {
@@ -58,7 +85,7 @@ h1 {
 .MainPageTitle2 {
     width: 900px;
     font-size: 40px;
-    margin-left: 10%;
+    margin-left: 8%;
     margin-top: 5%;
 }
 
@@ -71,8 +98,8 @@ h1 {
 }
 
 .ContainerImg {
-    width: 25%;
-    border-radius: 30px;
+    width: 73%;
+    border-radius: 25px;
 }
 
 .C1TXT {
@@ -82,34 +109,97 @@ h1 {
 
 .C1TXT1 {
     position: relative;
-    top: 190px;
-    left: 10%;
+    top: 140px;
+    left: 28%;
 }
 
 .C1TXT2 {
     position: relative;
-    top: 150px;
-    left: 10%;
-    font-size: 50px;
+    top: 125px;
+    left: 28%;
+    font-size: 30px;
 }
 
 .C1TXT3 {
     position: relative;
-    bottom: 450px;
-    left: 10%;
+    bottom: 440px;
+    left: 28%;
+}
+
+.Containers {
+    display: flex;
+    height: 564px;
+    width: 100%;
 }
 
 .Container1 {
     position: relative;
-    top: -160px;
+    width: 60%;
+    top: -100px;
 }
 
 .Container2 {
     position: relative;
-    top: -900px;
-    left: 25%;
+    width: 60%;
+    top: -100px;
+    left: -150px;
 }
 
-.Containers{
-    display: inline;
+.Container3 {
+    position: relative;
+    width: 60%;
+    top: -119px;
+    left: -280px;
+}
+
+.TitleStrong4 {
+    color: rgb(49, 49, 49);
+}
+
+.TitleStrong5 {
+    color: rgb(129, 129, 129);
+}
+
+.MainPageTitle4 {
+    font-size: 30px;
+    margin-left: 8%;
+    margin-top: 50px;
+}
+
+.BuyMethods {
+    display: flex;
+    margin-left: 100px;
+}
+
+.blueStrong {
+    color: #1e89ff;
+}
+
+.Method1, .Method2, .Method3 {
+    display: flex;
+    background-color: white;
+    font-family: sans-serif;
+    color: rgb(49, 49, 49);
+    font-size: 30px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 4px 4px 8px rgb(179, 179, 179);
+    margin-bottom: 30px;
+    width: 20%;
+    margin-left: 50px;
+}
+
+.fa-2xl {
+    margin: 30px;
+    margin-top: 100px;
+}
+
+.Semcriatividadepranomedeclasse {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.Semcriatividadepranomedeclasse1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
