@@ -2,6 +2,10 @@ body {
     background-color: #f5f5f7;
 }
 
+a:hover {
+    cursor: pointer;
+}
+
 header {
     width: 100%;
     text-align: center;
@@ -204,7 +208,135 @@ h1 {
     margin-bottom: 60px;
 }
 
-@media (max-width: 430px){
+.MainPageTitle7 {
+    font-size: 100px;
+    margin-left: 10%;
+    margin-bottom: 0px;
+}
+
+video {
+    border-radius: 50px;
+    margin-left: 400px;
+    transition-duration: 1s;
+}
+
+video:hover {
+    width: 1200px;
+    margin-left: 350px;
+    border-radius: 50px;
+}
+
+.MacType {
+    font-size: 20px;
+    display: flex;
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+    width: 23.1%;
+    border-radius: 50px;
+    box-shadow: 4px 4px 8px rgb(145, 141, 141);
+    position: relative;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+
+.Notebooks {
+    background-color: #1d1d1f;
+    padding: 20px;
+    border-radius: 50px;
+    color: #ffffff;
+    transition-duration: 0.5s;
+}
+
+.Notebooks:hover {
+    background-color: #b8b8b8;
+}
+
+.Desktops {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 50px;
+    margin-left: 20px;
+    color: #000000;
+}
+
+.Desktops:hover {
+    background-color: #b8b8b8;
+    transition-duration: 0.5s;
+}
+
+.Monitores {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 50px;
+    margin-left: 20px;
+    color: #000000;
+}
+
+.Monitores:hover {
+    background-color: #b8b8b8;
+    transition-duration: 0.5s;
+}
+
+.ToBuy, .ToBuy1 {
+    display: flex;
+    background-color: #dfdfdf;
+    padding: 10px;
+    width: 90%;
+    margin-left: 90px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 4px 4px 8px #a0a0a0;
+    text-align: center;
+}
+
+.ProductTitle {
+    font-family: sans-serif;
+}
+
+.ProductDescription {
+    font-family: sans-serif;
+}
+
+.ProductStrong {
+    font-family: sans-serif;
+}
+
+.Monitor1 {
+    margin-top: 25px;
+}
+
+.Mon1 {
+    margin-right: 150px;
+    margin-left: 400px;
+}
+
+.fa-plus, .fa-minus {
+    padding: 10px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    border-radius: 30px;
+    background-color: #9e9e9e;
+}
+
+.QuantityLabel {
+    font-family: sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 10px;
+}
+
+.preço{
+    font-family: sans-serif;
+    margin-top: 30%;
+    font-size: 40px;
+    margin-left: 8%;
+}
+
+@media (max-width: 828px){
+body {
+    width: 49%;
+}
+
 header {
     display: none;
 }
@@ -217,105 +349,162 @@ header {
     display: none;
 }
 
+.ProductDemoRow2 {
+    margin-top: 100px;
+}
+
 .fab {
     display: none;
 }
 
+.ProductDemoVFX4 {
+    margin-left: 80px;
+}
+
 .MainPageTitle {
-    font-size: 29px;
-    width: 350px;
+    font-size: 40px;
+    width: 550px;
+    margin-left: 150px;
 }
 
 .Products {
-    display: none;
-
+    width: 200%;
+    margin-left: 30px;
 }
 
+
 .ProductsLabels {
-    display: none;
+    display: flex;
+}
+
+.ProductDemoVFX1 {
+    margin-left: 170px;
+}
+
+.ProductDemo2 {
+    left: 0px;
+}
+
+.ProductDemo3 {
+    left: 0px;
+}
+
+.ProductDemo4 {
+    left: 30px;
+    width: 900px;
+}
+
+.ProductDemo1, .ProductDemo2, .ProductDemo3, .ProductDemo4 {
+    position: relative;
+    top: -180px;
+}
+
+.ProductDemo5Row2, .ProductDemo6Row2, .ProductDemo7Row2, .ProductDemo8Row2 {
+    margin-top: 10px;
+}
+
+.ProductDemo5Row2 {
+    position: relative;
+    left: -550px;
+}
+
+.ProductDemo6Row2 {
+    position: relative;
+    left: -550px;
+}
+
+.ProductDemo7Row2 {
+    position: relative;
+    left: -530px;
+}
+
+.ProductDemo8Row2 {
+    position: relative;
+    left: -500px;
 }
 
 .MainPageTitle2{
-    font-size: 29px;
-    width: 350px;
+    font-size: 40px;
+    width: 550px;
+    margin-left: 150px;
 }
 
 .Containers {
     display: grid;
     height: 1300px;
-    width: 100%;
+    width: 200%;
 }
 
 .Container1 {
     position: relative;
     width: 110%;
     top: -100px;
-    margin-left: 40px;
+    margin-left: 80px;
 }
 
 .Container2 {
     position: relative;
     width: 110%;
     top: -210px;
-    left: 40px;
+    left: 80px;
 }
 
 .Container3 {
     position: relative;
     width: 110%;
     top: -340px;
-    left: 40px;
+    left: 80px;
 }
 
 .C1TXT1 {
+    color: hsl(0, 0%, 100%);
     position: relative;
-    top: -270px;
+    top: 280px;
+    font-size: 30px;
     left: 5%;
 }
 
 .C1TXT2 {
+    color: #ffffff;
     position: relative;
-    top: 130px;
+    top: 240px;
     left: 5%;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .C1TXT3 {
+    color: #ffffff;
     position: relative;
-    bottom: 320px;
+    bottom: -210px;
     left: 5%;
+    font-size: 30px;
 }
 .BuyMethods {
     display: grid;
+    margin-left: 300px;
+}
+
+.MainPageTitle4 {
+    margin-top: 1550px;
+    font-size: 50px;
     margin-left: 100px;
+    width: 700px;
+    margin-bottom: 50px;
 }
 
 .Method1, .Method2, .Method3 {
+    position: relative;
     display: grid;
     background-color: white;
     font-family: sans-serif;
     color: rgb(49, 49, 49);
-    font-size: 30px;
+    font-size: 50px;
     border-radius: 30px;
     padding: 20px;
     box-shadow: 4px 4px 8px rgb(179, 179, 179);
     width: 90%;
     text-align: center;
-}
-
-.Method1{
-    position: relative;
-    left: -100px;
-}
-
-.Method2 {
-    position: relative;
-    left: -100px;
-}
-
-.Method3 {
-    position: relative;
-    left: -100px;
+    left: -150px;
 }
 
 .fa-2xl {

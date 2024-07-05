@@ -1,0 +1,40 @@
+@media (max-width: 828px) {
+    video {
+        position: relative;
+        width: 300%;
+        left: -600px;
+        margin-top: 50px;
+    }
+
+    .MacType {
+        position: relative;
+        left: -500px;
+    }
+
+    .ToBuy, .ToBuy1 {
+        display: grid;
+        width: 600px;
+    }
+
+    .Mon1 {
+        position: relative;
+        left: -280px;
+        font-size: 20px;
+    }
+
+    .Mon2 {
+        margin-top: 50px;
+        position: relative;
+        left: -150px;
+        font-size: 20px;
+    }
+
+    .Desk1, .Desk2 {
+        margin-top: 50px;
+        font-size: 20px;
+    }
+
+    .preço{
+        display: none;
+    }
+}
