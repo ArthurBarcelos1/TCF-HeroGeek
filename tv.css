@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+.img2 {
+    margin-top: 50px;
+    margin-left: 4%;
+}
+
+.img3 {
+    margin-left: 36%;
+}
+
+.mainTitle {
+    text-align: center;
+    font-size: 50px;
+}
+
+h6 {
+    text-align: center;
+    font-size: 30px;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: -20px;
+    color: #86868b;
+}
+
+video {
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: black;
+}

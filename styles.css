@@ -264,6 +264,16 @@ video:hover {
     transition-duration: 0.5s;
 }
 
+.Notebk1 {
+    position: relative;
+    left: -140px;
+}
+
+.Notebk2 {
+    position: relative;
+    left: -210px;
+}
+
 .Monitores {
     background-color: #ffffff;
     padding: 20px;
@@ -277,9 +287,9 @@ video:hover {
     transition-duration: 0.5s;
 }
 
-.ToBuy, .ToBuy1 {
+.ToBuy, .ToBuy1, .ToBuy2 {
     display: flex;
-    background-color: #dfdfdf;
+    background-color: #eeeeee;
     padding: 10px;
     width: 90%;
     margin-left: 90px;
@@ -305,7 +315,7 @@ video:hover {
     margin-top: 25px;
 }
 
-.Mon1 {
+.Mon1, .Desk1, .Notebk1 {
     margin-right: 150px;
     margin-left: 400px;
 }
@@ -330,195 +340,4 @@ video:hover {
     margin-top: 30%;
     font-size: 40px;
     margin-left: 8%;
-}
-
-@media (max-width: 828px){
-body {
-    width: 49%;
-}
-
-header {
-    display: none;
-}
-
-.NavUI {
-    display: none;
-}
-
-.fa-apple {
-    display: none;
-}
-
-.ProductDemoRow2 {
-    margin-top: 100px;
-}
-
-.fab {
-    display: none;
-}
-
-.ProductDemoVFX4 {
-    margin-left: 80px;
-}
-
-.MainPageTitle {
-    font-size: 40px;
-    width: 550px;
-    margin-left: 150px;
-}
-
-.Products {
-    width: 200%;
-    margin-left: 30px;
-}
-
-
-.ProductsLabels {
-    display: flex;
-}
-
-.ProductDemoVFX1 {
-    margin-left: 170px;
-}
-
-.ProductDemo2 {
-    left: 0px;
-}
-
-.ProductDemo3 {
-    left: 0px;
-}
-
-.ProductDemo4 {
-    left: 30px;
-    width: 900px;
-}
-
-.ProductDemo1, .ProductDemo2, .ProductDemo3, .ProductDemo4 {
-    position: relative;
-    top: -180px;
-}
-
-.ProductDemo5Row2, .ProductDemo6Row2, .ProductDemo7Row2, .ProductDemo8Row2 {
-    margin-top: 10px;
-}
-
-.ProductDemo5Row2 {
-    position: relative;
-    left: -550px;
-}
-
-.ProductDemo6Row2 {
-    position: relative;
-    left: -550px;
-}
-
-.ProductDemo7Row2 {
-    position: relative;
-    left: -530px;
-}
-
-.ProductDemo8Row2 {
-    position: relative;
-    left: -500px;
-}
-
-.MainPageTitle2{
-    font-size: 40px;
-    width: 550px;
-    margin-left: 150px;
-}
-
-.Containers {
-    display: grid;
-    height: 1300px;
-    width: 200%;
-}
-
-.Container1 {
-    position: relative;
-    width: 110%;
-    top: -100px;
-    margin-left: 80px;
-}
-
-.Container2 {
-    position: relative;
-    width: 110%;
-    top: -210px;
-    left: 80px;
-}
-
-.Container3 {
-    position: relative;
-    width: 110%;
-    top: -340px;
-    left: 80px;
-}
-
-.C1TXT1 {
-    color: hsl(0, 0%, 100%);
-    position: relative;
-    top: 280px;
-    font-size: 30px;
-    left: 5%;
-}
-
-.C1TXT2 {
-    color: #ffffff;
-    position: relative;
-    top: 240px;
-    left: 5%;
-    font-size: 50px;
-}
-
-.C1TXT3 {
-    color: #ffffff;
-    position: relative;
-    bottom: -210px;
-    left: 5%;
-    font-size: 30px;
-}
-.BuyMethods {
-    display: grid;
-    margin-left: 300px;
-}
-
-.MainPageTitle4 {
-    margin-top: 1550px;
-    font-size: 50px;
-    margin-left: 100px;
-    width: 700px;
-    margin-bottom: 50px;
-}
-
-.Method1, .Method2, .Method3 {
-    position: relative;
-    display: grid;
-    background-color: white;
-    font-family: sans-serif;
-    color: rgb(49, 49, 49);
-    font-size: 50px;
-    border-radius: 30px;
-    padding: 20px;
-    box-shadow: 4px 4px 8px rgb(179, 179, 179);
-    width: 90%;
-    text-align: center;
-    left: -150px;
-}
-
-.fa-2xl {
-    margin: 0px;
-    margin-top: 40px;
-}
-
-.Semcriatividadepranomedeclasse {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.Semcriatividadepranomedeclasse1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
 }

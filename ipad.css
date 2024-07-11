@@ -1,0 +1,28 @@
+.Classes {
+    display: flex;
+}
+
+.Ipads {
+    text-align: center;
+}
+
+.Ipads2 {
+    margin-top: 58px;
+}
+
+.Classes {
+    display: flex;
+    background-color: #eeeeee;
+    padding: 10px;
+    width: 90%;
+    margin-left: 90px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 4px 4px 8px #a0a0a0;
+    text-align: center;
+}
+
+.Titulo {
+    margin-left: 5%;
+    font-size: 80px;
+}
