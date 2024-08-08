@@ -140,6 +140,11 @@ h1 {
     position: relative;
     width: 60%;
     top: -100px;
+    transition: 0.5s;
+}
+
+.Container1:hover {
+    width: 63%;
 }
 
 .Container2 {
@@ -147,6 +152,11 @@ h1 {
     width: 60%;
     top: -100px;
     left: -150px;
+    transition: 0.5s;
+}
+
+.Container2:hover {
+    width: 63%;
 }
 
 .Container3 {
@@ -154,6 +164,11 @@ h1 {
     width: 60%;
     top: -119px;
     left: -280px;
+    transition: 0.5s;
+}
+
+.Container3:hover {
+    width: 63%;
 }
 
 .TitleStrong4 {
@@ -191,6 +206,23 @@ h1 {
     margin-bottom: 30px;
     width: 20%;
     margin-left: 50px;
+    transition: 0.5s;
+}
+
+.Method1:hover {
+    font-size: 30px;
+    padding: 28px;
+    background-color: #eeeeee;
+}
+
+.Method2:hover {
+    padding: 28px;
+    background-color: #eeeeee;
+}
+
+.Method3:hover {
+    padding: 28px;
+    background-color: #eeeeee;
 }
 
 .fa-2xl {
@@ -291,8 +323,8 @@ video:hover {
     display: flex;
     background-color: #eeeeee;
     padding: 10px;
-    width: 90%;
-    margin-left: 90px;
+    width: 70%;
+    margin-left: 290px;
     border-radius: 20px;
     margin-top: 50px;
     box-shadow: 4px 4px 8px #a0a0a0;
@@ -317,7 +349,7 @@ video:hover {
 
 .Mon1, .Desk1, .Notebk1 {
     margin-right: 150px;
-    margin-left: 400px;
+    margin-left: 200px;
 }
 
 .fa-plus, .fa-minus {
