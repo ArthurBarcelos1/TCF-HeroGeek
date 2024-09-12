@@ -9,8 +9,8 @@
 - [x] CSS Finalizado
 - [x] Power Point Feito
 - [x] Word Feito
-- [ ] GitHub Finalizado :tada:
-- [ ] Projeto finalizado :tada:
+- [x] GitHub Finalizado :tada:
+- [x] Projeto finalizado :tada:
 
 # Estrutura dos arquivos:
 
