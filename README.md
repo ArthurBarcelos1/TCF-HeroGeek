@@ -1,7 +1,5 @@
-# Veja o site aqui: https://arthurbarcelos1.github.io/TCF-HeroGeek/
+# Veja o site [AQUI](https://arthurbarcelos1.github.io/TCF-HeroGeek/)
 
-> [!IMPORTANT]
-> Site cópia da Apple
 
 - [x] Projeto finalizado
 - [ ] CSS Finalizado
@@ -28,5 +26,8 @@
   - tvecasa.html
   - watch.css
   - watch.html
+
+ > [!IMPORTANT]
+> Site cópia da Apple
 
     
