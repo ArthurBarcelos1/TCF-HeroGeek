@@ -3,13 +3,16 @@
 > [!CAUTION]
 > Não abrir o site no celular!
 
+## Lista para fazer
+
 - [x] Projeto finalizado
-- [ ] CSS Finalizado
+- [x] CSS Finalizado
 - [x] Power Point Feito
 - [x] Word Feito
+- [ ] GitHub Finalizado :tada:
 - [ ] Projeto finalizado :tada:
 
-# Estrutura dos arquivos:
+## Estrutura dos arquivos:
 
 -TCF-HeroGeek
   - LICENSE
@@ -28,6 +31,8 @@
   - tvecasa.html
   - watch.css
   - watch.html
+
+## Notas importantes
 
  > [!IMPORTANT]
 > Site cópia da Apple
