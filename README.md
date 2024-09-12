@@ -44,5 +44,5 @@
 
 Principal CSS:
 ```
-<link rel="stylesheet" href="styles.css">
+:+1:
 ```
