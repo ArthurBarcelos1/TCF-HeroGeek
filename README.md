@@ -42,7 +42,7 @@
 
 # Outros
 
-Principal CSS:
+Principal CSS: :+1:
 ```
 :+1:
 ```
