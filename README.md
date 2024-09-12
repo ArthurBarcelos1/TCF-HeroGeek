@@ -42,7 +42,7 @@
 
 # Outros
 
-Principal CSS: :+1:
+Compartilhe com todos!
 ```
-:+1:
+Veja meu projeto em https://arthurbarcelos1.github.io/TCF-HeroGeek/
 ```
