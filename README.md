@@ -1,5 +1,7 @@
-# Veja o site [AQUI](https://arthurbarcelos1.github.io/TCF-HeroGeek/)
+# Veja o site [AQUI!](https://arthurbarcelos1.github.io/TCF-HeroGeek/)
 
+> [!CAUTION]
+> Não abrir o site no celular!
 
 - [x] Projeto finalizado
 - [ ] CSS Finalizado
@@ -30,4 +32,6 @@
  > [!IMPORTANT]
 > Site cópia da Apple
 
+> [!IMPORTANT]
+> O site recria fielmente o site original da Apple.
     
