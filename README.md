@@ -3,7 +3,7 @@
 > [!CAUTION]
 > Não abrir o site no celular!
 
-## Lista para fazer
+# Lista para fazer
 
 - [x] Projeto finalizado
 - [x] CSS Finalizado
@@ -12,7 +12,7 @@
 - [ ] GitHub Finalizado :tada:
 - [ ] Projeto finalizado :tada:
 
-## Estrutura dos arquivos:
+# Estrutura dos arquivos:
 
 -TCF-HeroGeek
   - LICENSE
@@ -32,7 +32,7 @@
   - watch.css
   - watch.html
 
-## Notas importantes
+# Notas importantes
 
  > [!IMPORTANT]
 > Site cópia da Apple
