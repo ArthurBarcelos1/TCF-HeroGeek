@@ -329,6 +329,7 @@ video:hover {
     margin-top: 50px;
     box-shadow: 4px 4px 8px #a0a0a0;
     text-align: center;
+    margin-bottom: 510px;
 }
 
 .ProductTitle {
@@ -337,6 +338,7 @@ video:hover {
 
 .ProductDescription {
     font-family: sans-serif;
+    margin: 50px;
 }
 
 .ProductStrong {
