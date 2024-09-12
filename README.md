@@ -2,3 +2,9 @@
 
 > [!IMPORTANT]
 > Site cópia da Apple
+
+- [x] Projeto finalizado
+- [ ] CSS Finalizado
+- [x] Power Point Feito
+- [x] Word Feito
+- [ ] Projeto finalizado :tada:
