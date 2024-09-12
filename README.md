@@ -39,4 +39,10 @@
 
 > [!NOTE]
 > O site recria fielmente o site original da Apple.
-    
+
+# Outros
+
+Principal CSS:
+```
+<link rel="stylesheet" href="styles.css">
+```
