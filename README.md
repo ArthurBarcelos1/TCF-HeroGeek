@@ -32,6 +32,6 @@
  > [!IMPORTANT]
 > Site cópia da Apple
 
-> [!IMPORTANT]
+> [!NOTE]
 > O site recria fielmente o site original da Apple.
     
