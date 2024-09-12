@@ -8,7 +8,7 @@
 
 Compartilhe com todos!
 ```
-Veja meu projeto em https://arthurbarcelos1.github.io/TCF-HeroGeek/
+Veja meu projeto em https://github.com/ArthurBarcelos1/TCF-HeroGeek
 ```
 
 # Lista para fazer
