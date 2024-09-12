@@ -8,3 +8,25 @@
 - [x] Power Point Feito
 - [x] Word Feito
 - [ ] Projeto finalizado :tada:
+
+# Estrutura dos arquivos:
+
+-TCF-HeroGeek
+  - LICENSE
+  - README.md
+  - acessorios.hmtl
+  - airpods.html
+  - entretenimento.html
+  - index.ht,l
+  - ipad.css
+  - ipad.html
+  - mac.html
+  - macMdedia.css
+  - styles.css
+  - test.js
+  - tv.css
+  - tvecasa.html
+  - watch.css
+  - watch.html
+
+    
