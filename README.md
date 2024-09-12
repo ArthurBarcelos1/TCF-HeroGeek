@@ -1,5 +1,12 @@
 # Veja o site [AQUI!](https://arthurbarcelos1.github.io/TCF-HeroGeek/)
 
+# Compartilhe!
+
+Compartilhe com todos!
+```
+Veja meu projeto em https://arthurbarcelos1.github.io/TCF-HeroGeek/
+```
+
 > [!CAUTION]
 > Não abrir o site no celular!
 
@@ -39,10 +46,3 @@
 
 > [!NOTE]
 > O site recria fielmente o site original da Apple.
-
-# Outros
-
-Compartilhe com todos!
-```
-Veja meu projeto em https://arthurbarcelos1.github.io/TCF-HeroGeek/
-```
