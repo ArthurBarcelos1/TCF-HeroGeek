@@ -1,14 +1,15 @@
 # Veja o site [AQUI!](https://arthurbarcelos1.github.io/TCF-HeroGeek/)
 
+
+> [!CAUTION]
+> Não abrir o site no celular!
+
 # Compartilhe!
 
 Compartilhe com todos!
 ```
 Veja meu projeto em https://arthurbarcelos1.github.io/TCF-HeroGeek/
 ```
-
-> [!CAUTION]
-> Não abrir o site no celular!
 
 # Lista para fazer
 
