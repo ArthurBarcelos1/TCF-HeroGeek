@@ -18,7 +18,7 @@ Veja meu projeto em https://github.com/ArthurBarcelos1/TCF-HeroGeek
 - [x] Power Point Feito
 - [x] Word Feito
 - [x] GitHub Finalizado :tada:
-- [x] Projeto finalizado :tada:
+- [x] TCF :tada:
 
 # Estrutura dos arquivos:
 
